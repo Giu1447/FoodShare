@@ -26,7 +26,6 @@ public class User implements UserDetails {
 
     private long expiresIn;
 
-    // Konstruktoren
     public User() {
     }
 
